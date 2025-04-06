@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.css": "/Realestate-project/static/css/main.84b64f32.css",
-    "main.js": "/Realestate-project/static/js/main.e3271658.js",
+    "main.css": "/Realestate-project/static/css/main.a91a84c4.css",
+    "main.js": "/Realestate-project/static/js/main.00a4b9d3.js",
+    "static/media/banner-01.jpg": "/Realestate-project/static/media/banner-01.618c0937da57298567aa.jpg",
+    "static/media/banner-02.jpg": "/Realestate-project/static/media/banner-02.2d57998b1bbe3110b82a.jpg",
+    "static/media/banner-03.jpg": "/Realestate-project/static/media/banner-03.f7cba5e24a40995be0f3.jpg",
     "index.html": "/Realestate-project/index.html",
-    "main.84b64f32.css.map": "/Realestate-project/static/css/main.84b64f32.css.map",
-    "main.e3271658.js.map": "/Realestate-project/static/js/main.e3271658.js.map"
+    "main.a91a84c4.css.map": "/Realestate-project/static/css/main.a91a84c4.css.map",
+    "main.00a4b9d3.js.map": "/Realestate-project/static/js/main.00a4b9d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b64f32.css",
-    "static/js/main.e3271658.js"
+    "static/css/main.a91a84c4.css",
+    "static/js/main.00a4b9d3.js"
   ]
 }

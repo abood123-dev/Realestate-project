@@ -3,6 +3,7 @@ import '../App.css';
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import { useEffect } from 'react';
+import Main2 from './Main2';
 function Home() {
   const [Isvisible,setIsvisible]=useState(true);
   const handleScroll=()=>
@@ -50,6 +51,7 @@ useEffect(()=>
       </div>
       </div>  
       </header>
+      <Main2/>
       </>
   );
 }
