@@ -5,6 +5,7 @@ import { useState } from 'react';
 import { useEffect } from 'react';
 import Main2 from './Main2';
 import Main3 from './Main3';
+import Main4 from './Main4';
 function Home() {
   const [Isvisible,setIsvisible]=useState(true);
   const handleScroll=()=>
@@ -54,6 +55,7 @@ useEffect(()=>
       </header>
       <Main2/>
       <Main3/>
+      <Main4/>
       </>
   );
 }
